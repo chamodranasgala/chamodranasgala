@@ -14,6 +14,6 @@ I'm Chamod from Sri Lanka. And I am Information Technology undergraduate at SLII
 
 ##
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamodsanjula&theme=merko)
+<img src="https://github-readme-stats.vercel.app/api?username=chamodsanjula&theme=merko" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamodsanjula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodsanjula&layout=compact" />
