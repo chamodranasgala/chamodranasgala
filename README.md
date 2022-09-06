@@ -11,3 +11,6 @@ I'm Chamod from Sri Lanka. And I am Information Technology undergraduate at SLII
 - MongoDB
 
 - 🌱 I’m currently learning MERN Stack
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?chamodsanjula= &theme=radical)
