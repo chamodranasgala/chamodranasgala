@@ -13,4 +13,4 @@ I'm Chamod from Sri Lanka. And I am Information Technology undergraduate at SLII
 - 🌱 I’m currently learning MERN Stack
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamodsanjula&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamodsanjula&theme=merko)
