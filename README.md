@@ -1,6 +1,8 @@
-# Chamod Ranasgala
+## Well, hello there 👋
 
-I'm Chamod from Sri Lanka. And I am Information Technology undergraduate at SLIIT. I really like to full-stack development. I enjoy learning languages and frameworks like Node JS, React JS, PHP Laravel.
+# Who am I?
+
+I am Information Technology undergraduate at SLIIT. I really like to full-stack development. I enjoy learning languages and frameworks like Node JS, React JS, PHP Laravel.
 
 ## Skills and Experience
 
@@ -10,8 +12,7 @@ I'm Chamod from Sri Lanka. And I am Information Technology undergraduate at SLII
 - PHP (Laravel)
 - MongoDB
 
-##
+### My stats
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=chamodsanjula&theme=merko"/>
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodsanjula&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamodsanjula&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodsanjula&&exclude_repo=chamodsanjula&layout=compact&theme=dracula" alt="languages"/>
