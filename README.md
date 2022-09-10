@@ -1,4 +1,4 @@
-## Hello There 👋
+## Hi there 👋
 
 ### Who am I?
 
