@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a information technology undergraduate at SLIIT. I really like to full-stack development. I enjoy learning programming languages and frameworks.
+I am a information technology undergraduate at SLIIT. I really like to full-stack development. And I enjoy learning programming languages and frameworks.
 
 ### Skills and Experience
 
