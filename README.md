@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-### Who am I?
-
 I am undergraduate at SLIIT. I really like to full-stack development. I enjoy learning languages and frameworks like Node JS, React JS, PHP Laravel.
 
 ### Skills and Experience
