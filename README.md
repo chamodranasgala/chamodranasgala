@@ -1,4 +1,4 @@
-## Hi there 👋 I am Chamod Ranasgala
+## Hi there 👋 I am Chamod Ranasgala.
 
 I am a information technology undergraduate at SLIIT. I really like to full-stack development.
 ### Skills and Experience
