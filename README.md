@@ -11,5 +11,5 @@ I am a information technology undergraduate at SLIIT. I really like to full-stac
 
 ### My stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChamodSR&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodSR&&exclude_repo=ChamodSR&layout=compact&theme=dracula" alt="languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamodranasgala&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodranasgala&&exclude_repo=ChamodSR&layout=compact&theme=dracula" alt="languages"/>
