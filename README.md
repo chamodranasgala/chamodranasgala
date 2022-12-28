@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Chamod Ranasgala.
 
-I am a undergraduate at SLIIT. I really like to web development and full-stack development.
+'m currently studying Information Technology at SLIIT. I like to work with web development and full-stack development.
 ### Skills and Experience
 
 - HTML, CSS, JS
@@ -8,6 +8,7 @@ I am a undergraduate at SLIIT. I really like to web development and full-stack d
 - Node JS
 - PHP (Laravel)
 - MongoDB
+- UI/UX Design
 
 ### My stats
 
