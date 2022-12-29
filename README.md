@@ -1,6 +1,7 @@
 ## Hi there! 👋 I am Chamod Ranasgala.
 
-I'm currently studying Information Technology at SLIIT. I like to work with web development and full-stack development.
+I'm currently studying Information Technology at SLIIT. I like to work with web development and full-stack development.<br>
+(Email - chamod.ranasgala@gmail.com)
 
 ### Skills and Experience
 
