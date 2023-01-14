@@ -15,6 +15,6 @@
 ### My stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamodranasgala&theme=radical) <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodranasgala&&exclude_reo=chamodranasgala&layout=compact&theme=dracula" alt="languages"/> <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodranasgala&&exclude_reo=chamodranasgala&layout=compact&theme=dracula" alt="languages"/> <br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,figma,react,git)](https://skillicons.dev)
