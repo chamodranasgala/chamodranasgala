@@ -17,6 +17,12 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamodranasgala&theme=radical) <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodranasgala&&exclude_reo=chamodranasgala&layout=compact&theme=dracula" alt="languages"/> <br><br>
 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,nodejs,php,figma,react,git,eclipse,androidstudio,vscode)](https://skillicons.dev)
+
+  
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,nodejs,php,figma,react,git,eclipse,androidstudio,vscode)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 </p>
