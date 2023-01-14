@@ -14,5 +14,5 @@
 
 ### My stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamodranasgala&theme=dracula) <br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamodranasgala&theme=vue-dark) <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodranasgala&&exclude_reo=chamodranasgala&layout=compact&theme=dracula" alt="languages"/>
