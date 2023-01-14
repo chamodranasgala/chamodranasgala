@@ -18,7 +18,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodranasgala&&exclude_reo=chamodranasgala&layout=compact&theme=great-gatsby" alt="languages"/> <br><br>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,java,nodejs,mongodb,php,figma,react,git,eclipse,androidstudio,vscode" />
   </a>
 </p>
