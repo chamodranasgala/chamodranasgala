@@ -14,8 +14,8 @@
 
 ### My stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamodranasgala&theme=radical) <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodranasgala&&exclude_reo=chamodranasgala&layout=compact&theme=dracula" alt="languages"/> <br><br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamodranasgala&theme=great-gatsby) <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodranasgala&&exclude_reo=chamodranasgala&layout=compact&theme=great-gatsby" alt="languages"/> <br><br>
 
 <p align="center">
   <a href="https://skillicons.dev">
