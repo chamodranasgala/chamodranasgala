@@ -10,7 +10,7 @@
 - Node JS
 - PHP (Laravel)
 - MongoDB
-- UI/UX Design
+- Figma
 
 ### My stats
 
