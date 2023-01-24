@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Chamod Ranasgala.
 * I'm currently studying Information Technology at SLIIT. <br>
-* I'm interested in Software Development, Web Development and UI/UX Design. <br>
+* Interested in Software Development, Web Development and UI/UX Design. <br>
 * How to reach me: chamod.ranasgala@gmail.com
 
 ### Skills and Experience
