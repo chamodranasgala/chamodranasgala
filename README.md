@@ -5,10 +5,10 @@
 
 ### Skills and Experience
 
-- HTML, CSS, JS
-- React JS
-- Node JS
-- PHP (Laravel)
+- HTML, CSS, JavaScript
+- Bootstrap
+- React
+- Node.js
 - MongoDB
 - Java
 - Python
@@ -19,5 +19,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodranasgala&&exclude_reo=chamodranasgala&layout=compact&theme=great-gatsby" alt="languages"/> <br><br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,java,nodejs,mongodb,php,figma,react,git,eclipse,androidstudio,vscode"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,java,nodejs,mongodb,figma,react,git,eclipse,androidstudio,vscode"/>
 </p>
