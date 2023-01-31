@@ -11,7 +11,6 @@
 - PHP (Laravel)
 - MongoDB
 - Java
-- Figma
 
 ### My stats
 
