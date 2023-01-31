@@ -11,6 +11,7 @@
 - PHP (Laravel)
 - MongoDB
 - Java
+- Python
 
 ### My stats
 
