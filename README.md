@@ -19,5 +19,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodranasgala&&exclude_reo=chamodranasgala&layout=compact&theme=great-gatsby" alt="languages"/> <br><br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mern,html,css,js,bootstrap,jquery,java,nodejs,mongodb,react,php,laravel,git,eclipse,androidstudio,vscode"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,java,nodejs,mongodb,react,php,laravel,git,eclipse,androidstudio,vscode"/>
 </p>
