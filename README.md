@@ -3,7 +3,7 @@
 * Interested in Software Development and Full Stack Development. <br>
 * Email: chamod.ranasgala@gmail.com
 
- 🌱 I am currently learning React.js and MERN Stack.
+* 🌱 I am currently learning React.js and MERN Stack.
 
 ### Skills and Experience
 
