@@ -2,6 +2,7 @@
 * I'm an Information Technology undergraduate at SLIIT. <br>
 * Interested in Software Development and Full Stack Development. <br>
 * 🌱 I'm currently learning React.js and MERN Stack.
+* Email : chamod.ranasgala@gmail.com
 
 ### Skills and Experience
 
