@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Chamod Ranasgala.
 * I'm an Information Technology undergraduate at SLIIT. <br>
-* Interested in Software Development, Full Stack Development and Web Development. <br>
+* Interested in Software Development, Full Stack Development. <br>
 * 🌱 I'm currently learning React and MERN Stack.
 * Email : chamod.ranasgala@gmail.com
 
