@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Chamod Ranasgala.
 
 * Interested in software development and full-stack development. <br>
-* 🌱 I'm currently learning React and MERN Stack.
+* 🌱 I'm currently learning React.js.
 * Email : chamod.ranasgala@gmail.com
 
 ### Skills and Experience
