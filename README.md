@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Chamod Ranasgala.
+## Hi there! 👋 I'm Chamod.
 
 * Interested in full-stack development and software development. <br>
 * 🌱 I'm currently learning React.js.
