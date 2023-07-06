@@ -6,13 +6,15 @@
 
 ### Skills and Experience
 
-- HTML, CSS, JavaScript
-- Bootstrap
-- React
+- React.js
 - Node.js
-- MongoDB
 - Java
+- JavaScript
+- Bootstrap
+- Sass 
+- HTML
 - Python
+- SQL
 
 ### My stats
 
