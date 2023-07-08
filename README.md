@@ -2,7 +2,7 @@
 
 * Interested in full-stack development and software development. <br>
 * 🌱 I'm currently learning ASP.NET and React.js.
-* Email : chamod.ranasgala@gmail.com
+* Email: chamod.ranasgala@gmail.com
 
 ### Skills and Experience
 
@@ -10,11 +10,11 @@
 - Node.js
 - Java
 - JavaScript
+- SQL
+- Python
 - Bootstrap
 - Sass 
 - HTML
-- Python
-- SQL
 
 ### My stats
 
