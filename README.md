@@ -14,7 +14,6 @@
 - Python
 - Bootstrap
 - Sass 
-- HTML
 
 ### My stats
 
