@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Chamod.
 
 * Interested in Full Stack Development. <br>
-* 🌱 I'm currently learning React.js.
+* 🌱 I'm currently learning React.
 * Email: chamod.ranasgala@gmail.com
 
 ### Skills and Experience
