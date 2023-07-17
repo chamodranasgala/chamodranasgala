@@ -8,12 +8,13 @@
 
 - React.js
 - Node.js
-- Java
 - JavaScript
 - SQL
-- Python
 - Bootstrap
-- Sass 
+- Sass
+- HTML
+- Java
+- Python
 
 ### My stats
 
