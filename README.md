@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Chamod.
 
-* Interested in full-stack development and software development. <br>
+* Interested in Full Stack Development. <br>
 * 🌱 I'm currently learning ASP.NET and React.js.
 * Email: chamod.ranasgala@gmail.com
 
