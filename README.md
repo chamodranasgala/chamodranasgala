@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Chamod.
+## Hi there! I'm Chamod. 👋
 
 * Interested in Full Stack Development. <br>
 * 🌱 I'm currently learning React.
