@@ -9,7 +9,7 @@
 - React.js
 - Node.js
 - JavaScript
-- SQL
+- MySQL
 - Bootstrap
 - Sass
 - HTML
