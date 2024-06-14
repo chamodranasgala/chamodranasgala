@@ -11,9 +11,8 @@
 - Python
 - PHP
 - JS
-- HTML
 - CSS
-- Bootstrap
+- HTML
 
 ### My stats
 
