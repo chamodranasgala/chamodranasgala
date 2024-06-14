@@ -6,12 +6,12 @@
 ### Skills and Experience
 
 - React.js
-- Node.js
 - JavaScript
-- MySQL
+- CSS
+- HTML
+- Node.js
 - Bootstrap
 - PHP
-- HTML
 - Java
 - Python
 
