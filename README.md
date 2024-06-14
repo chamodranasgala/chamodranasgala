@@ -2,7 +2,7 @@
 
 * 🌱 Interested in Software Development.
 
-### Skills & Experience
+### Coding Expertise
 
 - ReactJS
 - .NET
@@ -12,8 +12,6 @@
 - JS
 - CSS
 - HTML
-
-###
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamodranasgala&theme=great-gatsby) <br> -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodranasgala&&exclude_reo=chamodranasgala&layout=compact&theme=great-gatsby" alt="languages"/> <br><br> -->
