@@ -5,7 +5,7 @@
 ### Coding Expertise
 
 - ReactJS
-- .NET
+- .NET (C#)
 - Java
 - PHP
 - Python
