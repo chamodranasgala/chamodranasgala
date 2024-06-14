@@ -1,7 +1,6 @@
 ## Hi there! I'm Chamod.
 
-* Interested in Software Development. <br>
-* 🌱 I'm currently learning React.
+* 🌱 Interested in Software Development.
 
 ### Skills and Experience
 
