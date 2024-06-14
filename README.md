@@ -5,12 +5,11 @@
 
 ### Skills and Experience
 
-- React
+- ReactJS
 - .NET
 - Java
-- Python
 - PHP
-- Node
+- Python
 - JS
 - CSS
 - HTML
