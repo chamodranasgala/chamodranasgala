@@ -6,13 +6,14 @@
 ### Skills and Experience
 
 - React.js
+- Java
+- PHP
+- .NET
+- Node.js
 - JavaScript
 - CSS
 - HTML
-- Node.js
 - Bootstrap
-- PHP
-- Java
 - Python
 
 ### My stats
