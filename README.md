@@ -2,7 +2,6 @@
 
 * Interested in Software Development. <br>
 * 🌱 I'm currently learning React.
-* Email: chamod.ranasgala@gmail.com
 
 ### Skills and Experience
 
@@ -11,7 +10,7 @@
 - JavaScript
 - MySQL
 - Bootstrap
-- Sass
+- PHP
 - HTML
 - Java
 - Python
