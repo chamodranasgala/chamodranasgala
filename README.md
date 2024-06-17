@@ -4,11 +4,12 @@
 
 ### Coding Expertise
 
-- ReactJS
-- C# (.NET)
 - Java
-- PHP
 - Python
+- C#
+- TypeScript
+- SQL
+- React
 - JS
 - CSS
 - HTML
