@@ -1,7 +1,7 @@
 ## Hi there! I'm Chamod.
 
 * 🌱 Interested in Software Development.
-* 
+
 #### Programming Languages
 - Java
 - Python
