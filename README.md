@@ -10,9 +10,9 @@
 - SQL
 - JavaScript
 
-#### Frameworks and Libraries
+#### Frameworks & Libraries
 
-#### Platforms and Tools
+#### Platforms & Tools
 
 <br>
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamodranasgala&theme=great-gatsby) <br> -->
