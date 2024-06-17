@@ -2,9 +2,9 @@
 
 * 🌱 Interested in Software Development.
   
-## Technology Stack
+### Technology Stack
 
-### Programming Languages
+#### Programming Languages
 - Java
 - Python
 - C#
@@ -14,7 +14,7 @@
 
 #### Frameworks and Libraries
 
-### Platforms and Tools
+#### Platforms and Tools
 
 <br>
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamodranasgala&theme=great-gatsby) <br> -->
