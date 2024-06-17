@@ -3,8 +3,7 @@
 * 🌱 Interested in Software Development.
   
 ### Technology Stack
-
-* #### Programming Languages
+#### Programming Languages
 - Java
 - Python
 - C#
