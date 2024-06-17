@@ -1,8 +1,7 @@
 ## Hi there! I'm Chamod.
 
-* 🌱 Interested in Software Development.
+* 🌱 Interested in Software Development.<br>
   
-
 ## Technology Stack
 
 ### Programming Languages
