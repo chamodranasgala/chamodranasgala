@@ -2,17 +2,19 @@
 
 * 🌱 Interested in Software Development.
 
-### Coding Expertise
+## Technology Stack
 
+### Programming Languages
 - Java
 - Python
 - C#
 - TypeScript
 - SQL
-- ReactJS
 - JavaScript
-- CSS
-- HTML
+
+### Frameworks and Libraries
+
+### Platforms and Tools
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamodranasgala&theme=great-gatsby) <br> -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodranasgala&&exclude_reo=chamodranasgala&layout=compact&theme=great-gatsby" alt="languages"/> <br><br> -->
