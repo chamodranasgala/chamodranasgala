@@ -10,7 +10,7 @@
 - TypeScript
 - SQL
 - ReactJS
-- JS
+- JavaScript
 - CSS
 - HTML
 
