@@ -2,7 +2,8 @@
 
 * 🌱 Interested in Software Development.
 
-##
+<br><br>
+
 ## Technology Stack
 
 ### Programming Languages
