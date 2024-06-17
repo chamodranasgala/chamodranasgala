@@ -11,8 +11,11 @@
 - JavaScript
 
 #### Frameworks & Libraries
+- .NET
+- ReactJS
 
 #### Platforms & Tools
+- Docker
 
 <br>
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamodranasgala&theme=great-gatsby) <br> -->
