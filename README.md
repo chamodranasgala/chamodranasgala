@@ -1,6 +1,6 @@
 ## Hi there! I'm Chamod.
 
-* 🌱 Interested in Software Development.
+* 🌱 Interested in software development.
 
 #### Programming Languages
 - Java
