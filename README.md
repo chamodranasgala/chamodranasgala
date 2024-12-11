@@ -1,12 +1,12 @@
 ## Hi there! I'm Chamod.
 
-* 🌱 Interested in software development.
+* 🌱 Interested in software development
+* 🔧 Focused on DevOps
 
 #### Programming Languages
 - Java
 - Python
 - C#
-- TypeScript
 - SQL
 - JavaScript
 
