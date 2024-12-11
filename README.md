@@ -18,6 +18,7 @@
 #### Platforms & Tools
 - Docker
 - Flutter
+-->
 
 <br>
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamodranasgala&theme=great-gatsby) <br> -->
@@ -26,4 +27,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,js,bootstrap,jquery,java,mongodb,php,laravel,git,vscode,eclipse,androidstudio"/>
 </p>
--->
