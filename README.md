@@ -1,6 +1,6 @@
 ## Hi there! I'm Chamod.
 
-* 🌱 Passionate about software development and automation
+* 🌱 Interested in software development and automation
 * 🔧 Focused on DevOps practices, continuous integration and deployment
   
 <!--
