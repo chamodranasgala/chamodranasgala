@@ -1,8 +1,9 @@
 ## Hi there! I'm Chamod.
 
-* 🌱 Interested in software development
-* 🔧 Focused on DevOps
-
+* 🌱 Passionate about software development and automation
+* 🔧 Focused on DevOps practices, continuous integration and deployment
+  
+<!--
 #### Programming Languages
 - Java
 - Python
@@ -25,3 +26,4 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,js,bootstrap,jquery,java,mongodb,php,laravel,git,vscode,eclipse,androidstudio"/>
 </p>
+-->
