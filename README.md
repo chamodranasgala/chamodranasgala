@@ -2,10 +2,6 @@
 
 * 🌱 Interested in software development and automation
 * 🔧 Focused on DevOps practices, continuous integration and deployment
-  
-<br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamodranasgala&theme=great-gatsby)
 
 <br>
 
