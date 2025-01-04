@@ -5,4 +5,4 @@
 
 <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodranasgala&&exclude_reo=chamodranasgala&layout=compact&theme=great-gatsby"/>
 
-<br> <img src="https://skillicons.dev/icons?i=azure,python,docker,go,Terraform,aws,kubernetes,git,java,vscode,sqlserver,js,nodejs,react"/>
+<br> <img src="https://skillicons.dev/icons?i=azure,python,docker,go,Terraform,aws,kubernetes,git,java,vscode,SQL,js,nodejs,react"/>
