@@ -1,6 +1,6 @@
 ## Hi there! I'm Chamod.
 
-* 🌱 Interested in cloud computing and automation
+* 🌱 Interested in cloud computing, computer networks and cyber security 
 * 🔧 Focused on DevOps practices, continuous integration and deployment
 
 <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodranasgala&&exclude_reo=chamodranasgala&layout=compact&theme=great-gatsby"/>
