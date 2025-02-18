@@ -1,7 +1,7 @@
 ## Hi there! I'm Chamod.
 
-* 🌱 Interested in cloud computing, computer networks and cyber security 
-* 🔧 Focused on building secure, scalable cloud infrastructure and automating network operations
+* 🌱 Passionate about cloud computing, IT operations and software development 
+* 🔧 Focused on building scalable cloud infrastructure and automating workflows
 
 <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodranasgala&&exclude_reo=chamodranasgala&layout=compact&theme=great-gatsby"/>
 
