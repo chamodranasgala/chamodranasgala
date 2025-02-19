@@ -1,6 +1,7 @@
 ## Hi there! I'm Chamod.
 
-* Passionate about cloud computing, IT operations and software development
+* 🌱 Passionate about cloud computing, IT operations and software development
+* 🔧 Focused on cloud infrastructure and automating DevOps workflows
 
 <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodranasgala&&exclude_reo=chamodranasgala&layout=compact&theme=great-gatsby"/>
 
